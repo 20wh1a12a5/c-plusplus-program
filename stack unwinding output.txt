@@ -1,0 +1,9 @@
+fun3 start
+fun2 start
+fun1 startcaught execption:100
+fun end
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+

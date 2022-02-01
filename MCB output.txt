@@ -1,0 +1,16 @@
+Enter a and b values: 5 -3
+b cannot be negative
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+Enter a and b values: 4 2
+Result of a/b = 2
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+Enter a and b values: 5 0
+b cannot be zero
+
+...Program finished with exit code 0
+Press ENTER to exit console.

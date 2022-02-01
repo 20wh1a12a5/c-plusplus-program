@@ -1,0 +1,19 @@
+Enter a and b values: 6 -3
+Unkown exception in program
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+Enter a and b values: 2 4
+Result of a/b = 0
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+
+Enter a and b values: 3 0
+b cannot be zero
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+

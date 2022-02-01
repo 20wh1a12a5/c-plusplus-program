@@ -1,0 +1,12 @@
+enter a positive number:7
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+enter a positive number:-7
+not positive:-7
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+

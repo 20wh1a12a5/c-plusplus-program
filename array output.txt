@@ -1,0 +1,19 @@
+enter the value of X
+5
+value of X:5
+enter the value of X
+7
+value of X:7
+enter the value of X
+7
+value of X:7
+enter the value of X
+6
+value of X:6
+enter the value of X
+9 
+value of X:9
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.

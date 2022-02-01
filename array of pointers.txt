@@ -1,0 +1,23 @@
+//Write a C++ program to create an array of pointers. Invoke functions using array objects.//
+
+#include<iostream>
+using namespace std;
+class base{
+    int X;
+    public:
+    void getX(){
+        cout<<"enter the value of X"<<endl;
+        cin>>X;}
+    void display(){
+        cout<<"value of X:"<<X<<endl;
+    }};
+int main(){
+    base b;
+    base *ptr= new base[5];
+    int i;
+for(i=0;i<5;i++){
+    ptr->getX();
+    ptr->display();}
+    return 0;
+}
+
